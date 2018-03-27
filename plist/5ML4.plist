@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string><![CDATA[http://dl.xiaohe.mobi/uploads/9bc2e6bd63bd07a00d0402d90a1075da.ipa]]></string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>e9f91820bb41f18ed4727ef55dd5e445</string>
+                <key>bundle-version</key>
+                <string>2.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>公益彩票</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>

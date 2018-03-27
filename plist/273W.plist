@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string><![CDATA[http://dl.xiaohe.mobi/uploads/0a6bc4dec5e734742b1eb8679bdd8366.ipa]]></string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>9624c83db519a4acbca87fcc622e8a87</string>
+                <key>bundle-version</key>
+                <string>2.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>好运彩娱乐城 A027</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
