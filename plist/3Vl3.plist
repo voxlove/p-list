@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string><![CDATA[http://dl.xiaohe.mobi/uploads/653c2c41a82dde1eadfe42856edbbd38.ipa]]></string>
+                    <string><![CDATA[http://dl.xiaohe.mobi/uploads/65ec42688cb649fb598b5952bc910ad3.ipa]]></string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>047c94c4c3b3067fd6efc78d983847d0</string>
+                <string>5b1b0f589285a85a431d1794f9b3332b</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>赢彩票 C100</string>
+                <string>彩世界 HA100</string>
             </dict>
         </dict>
     </array>
