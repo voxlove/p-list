@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string><![CDATA[http://dl.xiaohe.mobi/uploads/6223148cd596960b96fa297690ea0529.ipa]]></string>
+                    <string><![CDATA[http://dl.xiaohe.mobi/uploads/3d53f8f38095ffd84e7defba60057e38.ipa]]></string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>7916d9489627a7d16c20d3e6674c57d6</string>
+                <string>f04d58f0c4a90ef7a7222e351fd1517a</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>明珠二号 H068</string>
+                <string>大赢家 HA113</string>
             </dict>
         </dict>
     </array>
