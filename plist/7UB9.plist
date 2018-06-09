@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string><![CDATA[https://dl.xiaohe.mobi/uploads/4322f0190db219b3e45f42860611bb43.ipa]]></string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>41d83b01e3f5c4d43eeadd2911f83374</string>
+                <key>bundle-version</key>
+                <string>85816.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>中福彩票 (代理一)</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
