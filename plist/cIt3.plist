@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string><![CDATA[https://dl.xiaohe.mobi/uploads/20dcdf9cf6086680deb2e3973f49421b.ipa]]></string>
+                    <string><![CDATA[https://dl.xiaohe.mobi/uploads/61d6927159edc65bdc633ff9148f79c5.ipa]]></string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>7b26f22d6a9cb0e095396bfd020e688f</string>
+                <string>b4a54ab55911dd7436661c259a1f792d</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>乐发彩票 C071</string>
+                <string>爱彩网 C126</string>
             </dict>
         </dict>
     </array>
