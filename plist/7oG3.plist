@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string><![CDATA[https://dl.xiaohe.mobi/uploads/aa91ef817c958bbf5fc27e4aed35ea7b.ipa]]></string>
+                    <string><![CDATA[https://dl.xiaohe.mobi/uploads/a64e7d0d0532cf5103afd074704673dd.ipa]]></string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>c82ac9419bff5702e0333ac85e5d826b</string>
+                <string>c029638ff33f6490ea8fe704ead5e4ac</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>500彩票 X042</string>
+                <string>讯飞彩票 HA166</string>
             </dict>
         </dict>
     </array>
