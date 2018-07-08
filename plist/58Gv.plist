@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string><![CDATA[https://dl.xiaohe.mobi/uploads/75d809e80bfa5f8fa6b8247da8c40eef.ipa]]></string>
+                    <string><![CDATA[https://dl.xiaohe.mobi/uploads/6932476be31cfb12986f5afa9058ae51.ipa]]></string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>0c461384cffc0fe55dd6518d6a3e6ea0</string>
+                <string>388e2324c167f673b1ad54b2a7997fc0</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>彩天堂</string>
+                <string>众购彩</string>
             </dict>
         </dict>
     </array>
